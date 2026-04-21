@@ -1,4 +1,4 @@
-# Comdelta (Expo React Native App)
+# Comdelta (React Native Expo App)
 
 This project is an Expo-based React Native application with GitHub Actions CI/CD.
 
